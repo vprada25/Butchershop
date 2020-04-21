@@ -1,0 +1,20 @@
+.carousel{
+  
+  height: 400px;
+  line-height: 400px;
+  overflow: hidden;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+
+  &--img{
+      width: 100%;
+      
+      justify-content: space-around;
+    
+  }
+}
+
+.ant-carousel .slick-slide h3 {
+  color: #fff;
+}
